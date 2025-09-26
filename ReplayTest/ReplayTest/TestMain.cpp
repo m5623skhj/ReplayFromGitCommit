@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::cout << "Replay test with take 1" << '\n';
+	std::cout << "Replay test with take 2" << '\n';
 
 	return 0;
 }
