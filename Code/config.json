@@ -1,0 +1,4 @@
+{
+  "build_command": "",
+  "run_command": "./../ReplayTest/x64/Debug/ReplayTest.exe"
+}
