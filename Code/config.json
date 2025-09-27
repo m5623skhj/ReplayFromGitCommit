@@ -1,4 +1,4 @@
 {
-  "build_command": "",
+  "build_command": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\MSBuild.exe\" ReplayTest/ReplayTest.sln /p:Configuration=Debug",
   "run_command": "./../ReplayTest/x64/Debug/ReplayTest.exe"
 }
